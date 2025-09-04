@@ -16,3 +16,20 @@ It can:
 
 ⚠️ **Note:** The dataset provided is minimal and only for demonstration purposes.  
 👉 For better performance, you can **expand the dataset** with more examples.  
+
+
+## ⚙️ Installation & Setup  
+
+Open your terminal and follow these steps:  
+
+```console
+# 1. Clone the repository
+git clone https://github.com/mkjerry-jr/Chatbot.git
+cd Chatbot
+
+# 2. Install required dependencies
+pip install flask
+pip install fuzzywizzy
+
+# 3. Run
+python app.py
